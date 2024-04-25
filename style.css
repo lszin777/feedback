@@ -14,6 +14,7 @@
     --white: #FFF;
     --very-dark-blue: #131518;
     --black-gradient: radial-gradien(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    --deixa-cmg:#1d232b;
 }
 
 body {
@@ -33,7 +34,7 @@ body {
 
 
 .estrela {
-    background-color: var(--very-dark-blue);
+    background-color: var(--deixa-cmg);
     width: 48px;
     height: 48px;
     display: flex;
